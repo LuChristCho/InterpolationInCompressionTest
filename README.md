@@ -90,6 +90,7 @@ python interpolation.py
 2. **Top-right**: Linear extrapolation at selected strain values
 3. **Bottom-left**: Variation of slope (dσ/dm) with strain
 4. **Bottom-right**: R² values indicating extrapolation quality
+[![output](https://github.com/LuChristCho/InterpolationInCompressionTest/blob/main/Figure.png)](https://github.com/LuChristCho/InterpolationInCompressionTest/blob/main/Figure.png)
 
 ## Example Results
 
